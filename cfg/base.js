@@ -18,7 +18,8 @@ module.exports = {
     hot: true,
     port: port,
     publicPath: publicPath,
-    noInfo: false
+    noInfo: false,
+    stats: { colors: true }
   },
   resolve: {
     extensions: ['', '.js', '.jsx'],

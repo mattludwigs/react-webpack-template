@@ -4,7 +4,9 @@
   ],
   "ecmaFeatures": {
     "jsx": true,
-    "modules": true
+    "modules": true,
+    "classes": 1,
+    "superInFunctions": 1
   },
   "env": {
     "browser": true,
