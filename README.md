@@ -2,6 +2,12 @@
 > This repository holds the base template for the current version of [generator-react-webpack](https://github.com/newtriks/generator-react-webpack).
 It can also be used as the prototype for newly generated projects.
 
+**This is a fork of the original react-webpack-template**
+
+Changes include:
+
+1. **NO ES6 CLASSES**
+
 [![Build Status](https://travis-ci.org/weblogixx/react-webpack-template.svg)](https://travis-ci.org/weblogixx/react-webpack-template) ![Amount of Downloads per month](https://img.shields.io/npm/dm/react-webpack-template.svg "Amount of Downloads") ![Dependency Tracker](https://img.shields.io/david/weblogixx/react-webpack-template.svg "Dependency Tracker") ![Dependency Tracker](https://img.shields.io/david/dev/weblogixx/react-webpack-template.svg "Dependency Tracker")
 
 ## Features
